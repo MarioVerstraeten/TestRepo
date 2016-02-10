@@ -15,7 +15,7 @@ namespace TestApplicatieGit.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Test Application commit, this is the about page btw";
 
             return View();
         }
